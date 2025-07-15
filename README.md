@@ -82,7 +82,7 @@ To build a machine learning model that can accurately classify patients as **dia
 ---
 ## Author
 
-📧 aajayan525@gmail.com 🔗 GitHub
+📧 aajayan525@gmail.com 🔗 [GitHub](https://github.com/Anusha6744)
 
 ## License
 This project is for educational use. Dataset provided by scikit-learn.
