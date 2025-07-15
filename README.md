@@ -85,7 +85,7 @@ To build a machine learning model that can accurately classify patients as **dia
 📧 aajayan525@gmail.com 🔗 [GitHub](https://github.com/Anusha6744)
 
 ## License
-This project is for educational use. Dataset provided by scikit-learn.
+This project is for educational use. Dataset provided by Kaggle.
 
 ## ⭐️ Show Support
 If you liked this project, consider ⭐️ starring the repository or sharing it with others!
