@@ -80,14 +80,14 @@ To build a machine learning model that can accurately classify patients as **dia
 - Data preprocessing and feature scaling significantly improved model performance.
 
 ---
-**Author**
-Your Name
+## Author
+
 📧 aajayan525@gmail.com 🔗 GitHub
 
-**License**
+## License
 This project is for educational use. Dataset provided by scikit-learn.
 
-**⭐️ Show Support**
+## ⭐️ Show Support
 If you liked this project, consider ⭐️ starring the repository or sharing it with others!
 
 
